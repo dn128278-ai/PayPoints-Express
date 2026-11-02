@@ -1,6 +1,0 @@
-{
-  "name": "PayPoints Express - Order & Webhook Wallet API",
-  "description": "Production Node.js and Express backend server with /api/create-order and /api/payment-webhook APIs for automatic user wallet balance point crediting on successful payment.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
